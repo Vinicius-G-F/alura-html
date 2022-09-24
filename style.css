@@ -57,6 +57,10 @@ body {
     margin: 0 6em;
 }
 
+.container__caixa:hover {
+    background-color: orange;
+}
+
 .container__imagem {
     margin: 1em 0 2em 0;
 }
