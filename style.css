@@ -48,6 +48,10 @@ body {
     border: 2px solid var(--branco-principal);
 }
 
+.container__botao:hover {
+    background-color: purple;
+}
+
 .container__titutlo {
     font-size: 28px;
     font-weight: 700;
@@ -55,10 +59,6 @@ body {
 
 .container__caixa {
     margin: 0 6em;
-}
-
-.container__caixa:hover {
-    background-color: orange;
 }
 
 .container__imagem {
